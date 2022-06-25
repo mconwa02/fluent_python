@@ -31,3 +31,10 @@ Special methods supporting asynchronous programming
 Collection API
 
 Uses f-string syntax instead of `str.format(%)`
+
+special methods is that they are meant to be called by
+the Python interpreter
+
+Python variable-sized collections written in C include a struct2 called PyVarObject
+
+Continue from Chapter 1 pg 9
